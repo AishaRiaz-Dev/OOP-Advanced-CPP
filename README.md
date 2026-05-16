@@ -2,9 +2,9 @@
 
 A comprehensive repository showcasing modular software design, memory management, and structured programming paradigms using C++. This project documents my execution of core object-oriented principles to build clean, reusable, and optimized code structures.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AishaRiaz-Dev/OOP-C-Plus-Plus?color=blue)
-![GitHub top language](https://img.shields.io/github/languages/top/AishaRiaz-Dev/OOP-C-Plus-Plus?color=red)
-![GitHub last commit](https://img.shields.io/github/last-commit/AishaRiaz-Dev/OOP-C-Plus-Plus?color=green)
+![GitHub repo size](https://img.shields.io/github/repo-size/AishaRiaz-Dev/OOP-Advanced-CPP?color=blue)
+![GitHub top language](https://img.shields.io/github/languages/top/AishaRiaz-Dev/OOP-Advanced-CPP?color=red)
+![GitHub last commit](https://img.shields.io/github/last-commit/AishaRiaz-Dev/OOP-Advanced-CPP?color=green)
 
 ---
 
